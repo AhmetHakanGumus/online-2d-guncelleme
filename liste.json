@@ -1,7 +1,7 @@
 {
-  "surum": 29,
-  "adres": "https://github.com/AhmetHakanGumus/online-2d-guncelleme/releases/download/v29/online2d-windows-v29.zip",
-  "baslaticiSurum": 1,
-  "baslaticiAdres": "https://github.com/AhmetHakanGumus/online-2d-guncelleme/releases/download/baslatici/Baslatici.exe",
-  "baslaticiSha256": "e6979774c919f08d76251281c782773c9e6fd4b3a11d8f1f4115181b604a363a"
+  "surum": 30,
+  "adres": "https://github.com/AhmetHakanGumus/online-2d-guncelleme/releases/download/v30/online2d-windows-v30.zip",
+  "baslaticiSurum": 2,
+  "baslaticiAdres": "https://github.com/AhmetHakanGumus/online-2d-guncelleme/releases/download/baslatici/Launcher.exe",
+  "baslaticiSha256": "bd7d8875f6e77095f2b0a905986b3491b21a86d82d5487918d50ce102a846c50"
 }
